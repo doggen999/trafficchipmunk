@@ -1,6 +1,8 @@
-# dev-environment-with-storybook
+# trafficchipmunk
 
-Forked from https://github.com/doggen999/dev-environment.git
+Forked from https://github.com/doggen999/dev-environment-with-storybook.git
+
+Repo for testing Storybook with Chromatic and (Figma) Connect
 
 ## tl;dr
 
